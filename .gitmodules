@@ -1,0 +1,4 @@
+[submodule "mdBook"]
+	path = mdBook
+	url = https://github.com/catppuccin/mdBook
+	branch = v3.1.0

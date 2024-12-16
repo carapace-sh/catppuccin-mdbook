@@ -1,0 +1,13 @@
+diff --git a/src/catppuccin.scss b/src/catppuccin.scss
+index 0f856a8..b87a104 100644
+--- a/src/catppuccin.scss
++++ b/src/catppuccin.scss
+@@ -61,7 +69,7 @@
+     --icons: #{map.get($colors, "overlay0")};
+     --icons-hover: #{map.get($colors, "overlay2")};
+     --links: #{map.get($colors, "blue")};
+-    --inline-code-color: #{map.get($colors, "text")};
++    --inline-code-color: #{map.get($colors, "peach")};
+     --theme-popup-bg: #{map.get($colors, "mantle")};
+     --theme-popup-border: #{map.get($colors, "overlay0")};
+     --theme-hover: #{map.get($colors, "surface0")};
